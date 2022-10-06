@@ -42,5 +42,8 @@ int main (void){
 printf(nt O resultado e %0.2f, resultado);
 printf(n Digite 1 para continuar );
 scanf(%i, &op);
+
     }while(op==1);
 }
+[PROGAMAÇÃO.pdf](https://github.com/0LucasRodrigues0/0LucasRodrigues0/files/9719821/PROGAMACAO.pdf)
+
