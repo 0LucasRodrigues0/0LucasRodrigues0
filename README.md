@@ -1,57 +1,97 @@
-# 👋 Olá, sou o Lucas Rodrigues!
+# 👋 Olá, eu sou Lucas Rodrigues
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade La Salle  
-🛠️ Apaixonado por tecnologia, programação e cibersegurança  
-💻 Explorando o mundo da TI com foco em suporte técnico, redes e desenvolvimento
+💻 **Analista de Sistemas** com experiência em **TI, desenvolvimento, suporte técnico e infraestrutura**.
 
----
-
-## 💡 Sobre mim
-
-- 💼 Atuando como Analista de Service Desk
-- 👀 Interessado em cibersegurança, automação e desenvolvimento web
-- 🌱 Atualmente aprendendo C, Python e fundamentos de pentest
-- 🤝 Buscando colaborar com projetos de código aberto e grupos de estudo
+🎓 Formação em **Análise e Desenvolvimento de Sistemas**
+🔧 Experiência com **suporte, hardware, redes e sistemas corporativos**
+🤖 Interesse em **automação, Inteligência Artificial e desenvolvimento de soluções**
+📍 Esteio — RS, Brasil
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🚀 Sobre mim
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+Sou profissional da área de tecnologia, com experiência prática em ambientes corporativos de TI, atuando com suporte aos usuários, sistemas, infraestrutura, hardware e redes.
 
----
+Tenho interesse em desenvolver soluções que utilizem **programação, automação e Inteligência Artificial** para melhorar processos e resolver problemas do dia a dia.
 
-## 📚 Projetos em destaque
+Atualmente, busco oportunidades na área de **Tecnologia da Informação**, especialmente em:
 
-### 💻 Calculadora em C
-Um programa simples de calculadora feito em C para práticas com `switch`, `scanf` e operações matemáticas.  
-📁 [Repositório aqui](https://github.com/0LucasRodrigues0)
-
-### 🛡️ Simulação de alerta da Polícia Civil (HTML)
-Projeto criativo com simulação de alerta falso estilo "phishing" (apenas para fins educativos).  
-🎯 Tecnologias: HTML, CSS, JS  
-🔗 [Ver repositório](https://github.com/0LucasRodrigues0)
+* 🖥️ Suporte e infraestrutura de TI
+* 🔧 Hardware e redes
+* 💻 Desenvolvimento de sistemas
+* 🤖 Automação e Inteligência Artificial
+* 🗄️ Banco de dados
+* 🌐 Tecnologias web
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tecnologias e conhecimentos
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=0LucasRodrigues0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0LucasRodrigues0&layout=compact&theme=radical)
+### 💻 Desenvolvimento
+
+`Java` `Python` `SQL` `HTML` `CSS` `JavaScript`
+
+### 🖥️ Sistemas e suporte
+
+`Windows` `Linux` `GLPI` `MV`
+
+### 🌐 Infraestrutura
+
+`Redes` `TCP/IP` `DHCP` `DNS` `VLAN` `Hardware` `Troubleshooting`
+
+### 🤖 Automação e IA
+
+`Automação de processos` `Inteligência Artificial` `Integração de sistemas`
 
 ---
 
-## 📬 Como falar comigo?
+## 📌 Experiência
 
-📧 E-mail: santosxxl10@gmail.com  
-📱 WhatsApp: [Clique para conversar](https://wa.me/5551997380581)  
-📍 Esteio, RS - Brasil  
+### 🏥 Hospital Centenário
+
+**Estágio em Análise e Desenvolvimento de Sistemas**
+
+Atuação em ambiente de TI hospitalar, envolvendo:
+
+* Suporte técnico aos usuários
+* Atendimento e resolução de chamados
+* Sistemas corporativos
+* GLPI
+* Infraestrutura de redes
+* Hardware
+* Configuração e manutenção de equipamentos
+* Apoio às rotinas de TI
 
 ---
 
-🧠 *"A curiosidade é o combustível da evolução na tecnologia."*
+## 📚 Atualmente estudando
+
+* Desenvolvimento de sistemas
+* Python
+* Java
+* SQL
+* Automação
+* Inteligência Artificial
+* Redes e infraestrutura
+* Linux
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo profissionalmente na área de tecnologia, unindo **desenvolvimento, infraestrutura, automação e IA** para criar soluções práticas e eficientes.
+
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:** [Adicionar LinkedIn]
+
+📧 **E-mail:** [Adicionar e-mail profissional]
+
+📍 **Esteio — RS, Brasil**
+
+---
+
+⭐ Obrigado por visitar meu perfil!
