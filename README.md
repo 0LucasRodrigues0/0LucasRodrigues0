@@ -86,9 +86,9 @@ Continuar evoluindo profissionalmente na área de tecnologia, unindo **desenvolv
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [Adicionar LinkedIn]
+💼 **LinkedIn:** [www.linkedin.com/in/lucas-rodrigues-786538206]
 
-📧 **E-mail:** [Adicionar e-mail profissional]
+📧 **E-mail:** [ti.tecnologia@proton.me]
 
 📍 **Esteio — RS, Brasil**
 
